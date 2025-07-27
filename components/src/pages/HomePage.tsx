@@ -1,7 +1,7 @@
 
 
 
-export default function ProblemPage() {
+export default function HomePage() {
 
   return (
 
